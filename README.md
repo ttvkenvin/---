@@ -1,4 +1,4 @@
-![image]()
+![image](https://github.com/ttvkenvin/---/blob/master/180.png)
 # 韩词宝
 
 学习一门语言，首先从最基本的单词学起，我们这款《韩词宝》应用叫大家学习韩语单词，跟着拼写，快速上手。
@@ -25,7 +25,7 @@
 
 # 截图
 
-![image]()
-![image]()
-![image]()
-![image]()
+![image](https://github.com/ttvkenvin/---/blob/master/5.5-1.png)
+![image](https://github.com/ttvkenvin/---/blob/master/5.5-2.png)
+![image](https://github.com/ttvkenvin/---/blob/master/5.5-3.png)
+![image](https://github.com/ttvkenvin/---/blob/master/5.5-4.png)
